@@ -1,0 +1,86 @@
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+}
+.image img{
+    width: 100%;
+    margin-top: -90px;
+}
+
+.contact h2{
+    margin-bottom: 40px;
+}
+.image h1{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    
+}
+.container-fluid{
+    background-color: black;
+}
+.gold{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.thumbnail:hover{
+    transform:scale(1.1);
+}
+.gold1{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.gold2{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.gold3{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.gold4{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.gold5{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.gold6{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.gold7{
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+.contact .box 
+{
+  color:grey;
+  font-size: 50px;
+  padding: 10px;
+  text-align: center;
+
+  
+
+}
+.contact p{
+    font-size: 25px;
+    text-align: center;
+}
+.contact i:hover
+{
+    transform: translateY(-8px);
+    transition: 5ms;
+}
